@@ -24,7 +24,7 @@
     
   <body>
     <h1>Github Test Page</h1> <h4>Using html language</h4>
-    <p>Similar purpose as above</p>
+    <h4>Similar purpose as above</h4>
     <p>Considerations</p>
     <p>Cons</p>
       <ul>
