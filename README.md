@@ -16,7 +16,7 @@
 
 **Benefits** 
   - Somewhat understandable/intuitive formatting nuances 
-  - Ability to call out users within the organization (@)
+  - Ability to call out users within the organization (@cmh36346)
 
 **Formatting Nuances**
    - Headers: precede titles using #, ##, or ######
