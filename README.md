@@ -25,10 +25,11 @@
   <body>
     <h1>Github Test Page</h1> <h4>Using html language</h4>
     <h4>Similar purpose as above</h4>
-    <p>Considerations</p>
-    <p>Cons</p>
+    <h4>Considerations</h4>
+    <h4>Cons</h4>
       <ul>
         <li>Restricted by lack of previous HTML experience</li>
+        <li>Github-specific formatting nuances, e.g. line breaks in H1-H3 headers</li>
           </ul>
   </body>
 </html>
