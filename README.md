@@ -27,8 +27,21 @@
 **Inclusion of SQL**
 
 ```sql
-Hello World
+
 SELECT * FROM database.table LIMIT 10;
+
+SELECT * FROM (
+  VALUES
+  -- case 1: should not be returned
+  (1, date('2020-01-01')),
+  -- case 2: should be returned
+  (2, date('2020-01-01')),
+  (2, date('2020-02-01')),
+  -- case 3: should not be returned (edge case)
+  (3, date('2020-01-01')),
+  (3, date('2020-01-01'))
+)
+  testcases (pid, dt);
 ```
 
 
