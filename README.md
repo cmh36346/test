@@ -16,8 +16,9 @@
   - inline images
   - SQL syntax and highlighting 
   - images stored in another folder within the repo 
-**Cons*
-  - A lot of formatting nuances that vary (indenting, bolding)
+
+**Cons**
+  - A lot of formatting nuances that vary (spacing, indenting, bolding)
     
     <!DOCTYPE html>
 <html lang="en" dir="ltr">
