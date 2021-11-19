@@ -22,15 +22,13 @@
 
 
     
-    <!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
   <body>
-    <h1>Test Page</h1>
-    <p>Lorem ipsum</p>
-    <p>lorem ipsum</p>
+    <h1>Github Test Page</h1> <h4>Using html language</h4>
+    <h2>Similar purpose as above</h2>
+    <h2>Considerations</h2>
+    <h2>Cons</h2>
+      <ul>
+        <li>Restricted by lack of previous HTML experience</li>
+          </ul>
   </body>
 </html>
