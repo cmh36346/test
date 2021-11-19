@@ -26,6 +26,11 @@
     <h1>Github Test Page</h1> <h4>Using html language</h4>
     <h4>Similar purpose as above</h4>
     <h4>Considerations</h4>
+      <ul>
+        <li>inline images</li>
+        <li>SQL syntax and highlighting </li>
+        <li>images stored in another folder within the repoRestricted by lack of previous HTML experience</li>
+          </ul>      
     <h4>Cons</h4>
       <ul>
         <li>Restricted by lack of previous HTML experience</li>
