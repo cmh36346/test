@@ -14,6 +14,10 @@
 **Cons**
   - A lot of unique formatting nuances that vary (spacing, indenting, bolding)
 
+**Benefits** 
+  - Somewhat understandable/intuitive formatting nuances 
+  - Ability to call out users within the organization (@)
+
 **Formatting Nuances**
    - Headers: precede titles using #, ##, or ######
    - Spacing: pressing enter key once will push text to the next line in the editor field but requires being hit twice to produce a correctly spaced final github page 
