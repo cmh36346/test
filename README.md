@@ -11,10 +11,13 @@
 
 # Github Test Page (2)
 **Purpose** : determine ease of use for end user contribution across users and projects 
+
 **Considerations** 
   - inline images
   - SQL syntax and highlighting 
   - images stored in another folder within the repo 
+**Cons*
+  - A lot of formatting nuances that vary (indenting, bolding)
     
     <!DOCTYPE html>
 <html lang="en" dir="ltr">
