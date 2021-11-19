@@ -10,8 +10,8 @@
           
 
 # Github Test Page (2)
-    **Purpose** : determine ease of use for end user contribution across users and projects 
-    **Considerations** 
+    ** Purpose ** : determine ease of use for end user contribution across users and projects 
+    ** Considerations ** 
         - inline images
         - SQL syntax and highlighting 
         - images stored in another folder within the repo 
