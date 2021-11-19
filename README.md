@@ -12,7 +12,7 @@
   - images stored in another folder within the repo 
 
 **Cons**
-  - A lot of formatting nuances that vary (spacing, indenting, bolding)
+  - A lot of unique formatting nuances that vary (spacing, indenting, bolding)
 
 **Formatting Nuances**
    - Headers: precede titles using #, ##, or ######
