@@ -2,7 +2,7 @@
           
 
 # Github Test Page 
-## Using Github page formatting features
+(Using Github page formatting features)
 **Purpose** : determine ease of use for end user contribution across users and projects 
 
 **Considerations** 
