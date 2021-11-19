@@ -29,7 +29,8 @@
 ```sql
 
 SELECT * FROM database.table LIMIT 10;
-
+```
+```sql
 SELECT * FROM (
   VALUES
   -- case 1: should not be returned
