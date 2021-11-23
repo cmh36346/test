@@ -11,19 +11,6 @@
   - SQL syntax and highlighting 
   - images stored in another folder within the repo 
 
-**Cons**
-  - A lot of unique formatting nuances that vary (spacing, indenting, bolding)
-
-**Benefits** 
-  - Somewhat understandable/intuitive formatting nuances 
-  - Ability to call out users or teams within the organization which triggers a notification (@cmh36346) 
-  - Ability to reference specific issues and pages
-
-**Formatting Nuances**
-   - Headers: precede titles using #, ##, or ######
-   - Spacing: pressing enter key once will push text to the next line in the editor field but requires being hit twice to produce a correctly spaced final github page 
-   - Fenced Code Block: Using triple back-ticks to create a fence code block, and further specifying that code block with language type
-
 **Inclusion of SQL**
 
 ```sql
@@ -44,6 +31,21 @@ SELECT * FROM (
 )
   testcases (pid, dt);
 ```
+
+
+**Cons**
+  - A lot of unique formatting nuances that vary (spacing, indenting, bolding)
+
+**Benefits** 
+  - Somewhat understandable/intuitive formatting nuances 
+  - Ability to call out users or teams within the organization which triggers a notification (@cmh36346) 
+  - Ability to reference specific issues and pages
+
+**Formatting Nuances**
+   - Headers: precede titles using #, ##, or ######
+   - Spacing: pressing enter key once will push text to the next line in the editor field but requires being hit twice to produce a correctly spaced final github page 
+   - Fenced Code Block: Using triple back-ticks to create a fence code block, and further specifying that code block with language type
+
 
 
 
