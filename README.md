@@ -62,6 +62,7 @@ SELECT * FROM (
    - Determine ability to work with other users and not sacrifice document integrity
    - Ensure that all users have access to the repository (shouldn't be an issue for an organization-based repo. (Add specific users by navigating to repository home page > settings > manage access > add people > add user 
    - Once users have access to repositories, they are able to make changes to the page seamlessly and without limitation 
+   - Important to distinguish use of commits directly to main branch versus creation of pull requests, pull requests serve as a stop gate to prevent erroneous contribution and require approval 
    - (This section was built by camille-huy, not cmh36346)
    
 
