@@ -51,8 +51,8 @@ SELECT * FROM (
 
 **Including Imagess**
    - Instructions: create new issue in repository 
-   -      Drag and drop (or select) image file 
-   -      Github will create an image code that can be copy and pasted into your page editor to populate an image 
+     - Drag and drop (or select) image file 
+     - Github will create an image code that can be copy and pasted into your page editor to populate an image 
    - Pros: fairly easy to use and navigate 
    - Cons: unable to reformat size or position, will issues become cluttered? 
         
