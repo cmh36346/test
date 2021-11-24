@@ -59,7 +59,7 @@ SELECT * FROM (
 <img width="849" alt="Screen Shot 2021-11-24 at 8 54 22 AM" src="https://user-images.githubusercontent.com/84478214/143251361-3f813ae3-0dcb-414e-bc1f-758ffdbeed79.png">
 
 
-![alt text](/Images/Screen Shot 2021-11-24 at 9.32.48 AM.png)
+![alt text](Images/Screen Shot 2021-11-24 at 9.32.48 AM.png)
 
 
 **Collaboration**
