@@ -58,9 +58,20 @@ SELECT * FROM (
    - Cons: unable to reformat size or position, will issues become cluttered? 
 <img width="849" alt="Screen Shot 2021-11-24 at 8 54 22 AM" src="https://user-images.githubusercontent.com/84478214/143251361-3f813ae3-0dcb-414e-bc1f-758ffdbeed79.png">
 
-
-![alt text](./Images/Screen Shot 2021-11-24 at 9.32.48 AM.png)
+**Including Images from Folders within the Repo**
+   - Instructions: 
+     - Create new file and rename to include a subset folder for images, this text box can include basic purpose for this folder 
+     - Click add file > Upload files 
+     - Drag and drop or select image files necessary 
+     - THEN open and edit the readme file and reference the image using standard formatting ![]()
+       - ! precedes an image 
+       - [] brackets contain alternate text for the instance that the image in unable to be displayed, can be left empty 
+       - () parentheses contain the local file path which can be copied by going to the image file > three dots along upper right hand side > copy permalink
+     
+     
+! [] (https://github.com/cmh36346/test/blob/2ef0cb49d2919feeaf16453760dceb8c3ccf5393/Images/Screen%20Shot%202021-11-24%20at%209.32.48%20AM.png)
 ![](https://github.com/cmh36346/test/blob/2ef0cb49d2919feeaf16453760dceb8c3ccf5393/Images/Screen%20Shot%202021-11-24%20at%209.32.48%20AM.png)
+
 
 
 
