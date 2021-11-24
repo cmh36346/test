@@ -50,7 +50,9 @@ SELECT * FROM (
    - Fenced Code Block: Using triple back-ticks to create a fence code block, and further specifying that code block with language type
 
 **Including Images**
+
     - Instructions 
+    
         - Create new issue in repo
         - Drag and drop (or select) image file 
         - Github will create an image code that can be copied and pasted into your page to populate an image 
