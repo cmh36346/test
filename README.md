@@ -60,13 +60,10 @@ SELECT * FROM (
 
 **Collaboration**
    - Determine ability to work with other users and not sacrifice document integrity
-     - Drag and drop (or select) image file 
-     - Github will create an image code that can be copy and pasted into your page editor to populate an image 
-   - Pros: fairly easy to use and navigate 
-   - Cons: unable to reformat size or position, will issues become cluttered? 
-
-
-@cmh36346 what do you think 
+   - Ensure that all users have access to the repository (shouldn't be an issue for an organization-based repo. (Add specific users by navigating to repository home page > settings > manage access > add people > add user 
+   - Once users have access to repositories, they are able to make changes to the page seamlessly and without limitation 
+   - (This section was built by camille-huy, not cmh36346)
+   
 
 
     
