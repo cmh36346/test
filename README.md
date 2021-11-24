@@ -33,7 +33,7 @@ SELECT * FROM (
   testcases (pid, dt, diag);
 ```
 
-![Sample code output]<img width="772" alt="Screen Shot 2021-11-24 at 8 21 47 AM" src="https://user-images.githubusercontent.com/84478214/143246507-a5e2a15b-c33f-4e38-8fef-756cab997f58.png">
+<img width="772" alt="Screen Shot 2021-11-24 at 8 21 47 AM" src="https://user-images.githubusercontent.com/84478214/143246507-a5e2a15b-c33f-4e38-8fef-756cab997f58.png">
 
 
 **Cons**
