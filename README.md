@@ -58,6 +58,10 @@ SELECT * FROM (
    - Cons: unable to reformat size or position, will issues become cluttered? 
 <img width="849" alt="Screen Shot 2021-11-24 at 8 54 22 AM" src="https://user-images.githubusercontent.com/84478214/143251361-3f813ae3-0dcb-414e-bc1f-758ffdbeed79.png">
 
+
+![alt text](test/Images/Screen Shot 2021-11-24 at 9.32.48 AM.png)
+
+
 **Collaboration**
    - Determine ability to work with other users and not sacrifice document integrity
    - Ensure that all users have access to the repository (shouldn't be an issue for an organization-based repo. (Add specific users by navigating to repository home page > settings > manage access > add people > add user 
