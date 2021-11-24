@@ -8,5 +8,7 @@
        - [] brackets contain alternate text for the instance that the image in unable to be displayed, can be left empty 
        - () parentheses contain the local file path which can be copied by going to the image file > three dots along upper right hand side > copy path
      - Github will create an image code that can be copy and pasted into your page editor to populate an image 
-![](test/Images/Screen Shot 2021-11-24 at 9.32.48 AM.png)
+     
+     
+![alt text](test/Images/Screen Shot 2021-11-24 at 9.32.48 AM.png)
 
