@@ -63,6 +63,7 @@ SELECT * FROM (
    - Ensure that all users have access to the repository (shouldn't be an issue for an organization-based repo. (Add specific users by navigating to repository home page > settings > manage access > add people > add user 
    - Once users have access to repositories, they are able to make changes to the page seamlessly and without limitation 
    - Important to distinguish use of commits directly to main branch versus creation of pull requests, pull requests serve as a stop gate to prevent erroneous contribution and require approval 
+   - Use of commit changes and optional extended description allows for direct tagging of users and notification 
    - (This section was built by camille-huy, not cmh36346)
    
 
