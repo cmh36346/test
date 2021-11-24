@@ -56,7 +56,8 @@ SELECT * FROM (
      - Github will create an image code that can be copy and pasted into your page editor to populate an image 
    - Pros: fairly easy to use and navigate 
    - Cons: unable to reformat size or position, will issues become cluttered? 
-        
+<img width="849" alt="Screen Shot 2021-11-24 at 8 54 22 AM" src="https://user-images.githubusercontent.com/84478214/143251361-3f813ae3-0dcb-414e-bc1f-758ffdbeed79.png">
+
 
 
 
