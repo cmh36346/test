@@ -6,9 +6,8 @@
      - THEN open and edit the readme file and reference the image using standard formatting ![]()
        - ! precedes an image 
        - [] brackets contain alternate text for the instance that the image in unable to be displayed, can be left empty 
-       - () parentheses contain the local file path which can be copied by going to the image file > three dots along upper right hand side > copy path
-     - Github will create an image code that can be copy and pasted into your page editor to populate an image 
+       - () parentheses contain the local file path which can be copied by going to the image file > three dots along upper right hand side > copy permalink
      
      
-![alt text](test/Images/Screen Shot 2021-11-24 at 9.32.48 AM.png)
+![alt text](https://github.com/cmh36346/test/blob/2ef0cb49d2919feeaf16453760dceb8c3ccf5393/Images/Screen%20Shot%202021-11-24%20at%209.32.48%20AM.png)
 
