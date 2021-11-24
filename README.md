@@ -14,22 +14,23 @@
 **Inclusion of SQL**
 
 ```sql
-
+-- Return table 
 SELECT * FROM database.table LIMIT 10;
 ```
 ```sql
+-- Create sample data
 SELECT * FROM (
   VALUES
-  -- case 1: should not be returned
-  (1, date('2020-01-01')),
-  -- case 2: should be returned
-  (2, date('2020-01-01')),
-  (2, date('2020-02-01')),
-  -- case 3: should not be returned (edge case)
-  (3, date('2020-01-01')),
-  (3, date('2020-01-01'))
+  -- case 1: 
+  (1, date('2020-01-01'), 'diabetes'),
+  -- case 2:
+  (2, date('2020-01-01'), 'prostate cancer'),
+  (2, date('2020-02-01'), 'diabetes'),
+  -- case 3: 
+  (3, date('2020-01-01'), 'prostate cancer'),
+  (3, date('2020-01-01'), 'obesity')
 )
-  testcases (pid, dt);
+  testcases (pid, dt, diag);
 ```
 
 
