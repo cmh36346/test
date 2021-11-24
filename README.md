@@ -10,6 +10,7 @@
   - inline images
   - SQL syntax and highlighting 
   - images stored in another folder within the repo 
+  - Ability to collaborate with other users 
 
 **Inclusion of SQL**
 
