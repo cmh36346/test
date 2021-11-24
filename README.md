@@ -49,15 +49,12 @@ SELECT * FROM (
    - Spacing: pressing enter key once will push text to the next line in the editor field but requires being hit twice to produce a correctly spaced final github page 
    - Fenced Code Block: Using triple back-ticks to create a fence code block, and further specifying that code block with language type
 
-**Including Images**
-
-    - Instructions 
-    
-        - Create new issue in repo
-        - Drag and drop (or select) image file 
-        - Github will create an image code that can be copied and pasted into your page to populate an image 
-    - Pros: easy to use and navigate 
-    - Cons: unable to reformat size, will issues become cluttered? 
+**Including Imagess**
+   - Instructions: create new issue in repository 
+   -      Drag and drop (or select) image file 
+   -      Github will create an image code that can be copy and pasted into your page editor to populate an image 
+   - Pros: fairly easy to use and navigate 
+   - Cons: unable to reformat size or position, will issues become cluttered? 
         
 
 
